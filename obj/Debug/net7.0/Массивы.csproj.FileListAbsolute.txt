@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\bin\Debug\net7.0\Массивы.exe
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\bin\Debug\net7.0\Массивы.deps.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\bin\Debug\net7.0\Массивы.runtimeconfig.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\bin\Debug\net7.0\Массивы.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\bin\Debug\net7.0\Массивы.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.AssemblyInfo.cs
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\refint\Массивы.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\Массивы.genruntimeconfig.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\Массивы\obj\Debug\net7.0\ref\Массивы.dll
